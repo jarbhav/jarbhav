@@ -26,6 +26,14 @@ I'm studying Computer Science and pursuing my B.Tech from [PES University](https
 <a href="https://www.reddit.com/user/_The_DarkKnight_"><img src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg" alt="Reddit" width="40" height="40"/></a>
 <a href="https://medium.com/@vaibjav2raj"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" alt="Medium" width="40" height="40"/></a>
 
+---
+📊 My Github Stats
+
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarbhav&hide=stars,issues&count_private=true&show_icons=true&theme=great-gatsby)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarbhav&layout=compact&theme=great-gatsby)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jarbhav&theme=great-gatsby)
 
 <!-- 
 **jarbhav/jarbhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
