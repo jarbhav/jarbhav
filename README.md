@@ -35,6 +35,8 @@ I'm studying Computer Science and pursuing my B.Tech from [PES University](https
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jarbhav&theme=great-gatsby)
 
+![](https://komarev.com/ghpvc/?username=jarbhav&color=brightgreen&label=PROFILE+VIEWS)
+
 <!-- 
 **jarbhav/jarbhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
