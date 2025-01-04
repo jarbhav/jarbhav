@@ -1,29 +1,28 @@
 ### Hey 👋, I am Vaibhav Raj
 
-I'm studying Computer Science and pursuing my B.Tech from [PES University](https://pes.edu/), India. I am passionate about Software Development 👨‍💻, Cybersecurity 🐱‍💻 and Linux. I am a quick learner who's always willing to learn and work across technologies and domains 💡.
+I'm a Computer Science Grad from [PES University](https://pes.edu/), India. I am currently working as a Software Developer 👨‍💻 with a focus on Backend, Cybersecurity 🐱‍💻 and Linux. I am a quick learner who's always willing to learn and work across technologies and domains 💡.
 
 🌱 I’m currently working on
+  - Rust
+  - Go
   - Machine Learning
-  - Data Structures and Algorithms
   - Cloud Computing
 ---
-👨‍💻 Languages
+👨‍💻 Languages and Databases
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="50" height="50"/>
 
 ---
 🧰 Libraries, Frameworks and Tools
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" alt="Numpy" width="60" height="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github" width="60" height="60"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="Django" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line-wordmark.svg" alt="DRF" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="60" height="60"/>           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="Flask" width="60" height="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" alt="Ansible" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" width="60" height="60"/> 
 
 ---
-☎ Reach me on 
+📞 Reach me on 
 
 <a href = "mailto:vaibjav2raj@gmail.com?subject=From your Github Profile" ><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" width="40" height="40"/></a> 
 <a href = "https://www.linkedin.com/in/raj-vaibhav/" ><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin" width="40" height="40"/></a>
-<a href="https://discordapp.com/users/621356837077254186/"><img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="Discord" width="40" height="40"/></a>
-<a href="https://www.reddit.com/user/_The_DarkKnight_"><img src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg" alt="Reddit" width="40" height="40"/></a>
 <a href="https://medium.com/@vaibjav2raj"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" alt="Medium" width="40" height="40"/></a>
 
 ---
